@@ -1,0 +1,83 @@
+<!-- Day 3 Practice File: Write your HTML code here -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+</head>
+
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Day</th>
+                <th>Topic</th>
+                <th>Time</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Day 1</td>
+                <td>Introduction</td>
+                <td>10:00 AM - 12:00 PM</td>
+            </tr>
+            <tr>
+                <td>Day 2</td>
+                <td>Basic HTML</td>
+                <td>12:00 PM - 2:00 PM</td>
+            </tr>
+            <tr>
+                <td>Day 3</td>
+                <td>Tables & Forms</td>
+                <td>2:00 PM - 4:00 PM</td>
+            </tr>
+        </tbody>
+    </table>
+    <form action="/submit" method="POST">
+        <label for="name">name</label><br>
+        <input type="text" Full name="name" placeholder="" required><br>
+        <label for="email"></label><br>
+        <input type="email" placeholder="[EMAIL_ADDRESS]" required><br>
+        <label for="password">passward: </label>
+        <input type="password" id="password" name="password" placeholder="Entaring passward" required><br>
+        <label for="age">age</label><br>
+        <input type="number" age="" placeholder=""><br>
+        <label for="city">city</label><br>
+        <select>
+            <option value="">Dhaka</option>
+            <option value="">Khulna</option>
+            <option value="">Barishal</option>
+            <option value="">Rajshahi</option>
+            <option value="">Sylhet</option>
+            <option value="">Chattogram</option>
+            <option value="">Mymansingh</option>
+            <option value="">Rangpur</option>
+        </select><br>
+        <p>Interested Field:</p>
+        <label for="html">HTML</label>
+        <input type="checkbox" html="" placeholder=""><br>
+        <label for="css">CSS</label>
+        <input type="checkbox" css="" placeholder=""><br>
+        <label for="javascript">JavaScript</label>
+        <input type="checkbox" javascript="" placeholder=""><br>
+        <p>Experience Level:</p>
+        <label for="beginner">Beginner</label>
+        <input type="radio" beginner="" placeholder=" " name="a"><br>
+
+        <label for="intermediate">Intermediate</label>
+        <input type="radio" intermediate="" placeholder="" name="a"><br>
+
+        <label for="advanced">Advanced</label>
+        <input type="radio" advanced="" placeholder="" name="a"><br>
+
+        <label for="message">message</label><br>
+
+        <textarea name="message" id="message" cols="30" rows="10"></textarea><br>
+        <button type="submit">submit</button>
+
+    </form>
+</body>
+
+</html>
