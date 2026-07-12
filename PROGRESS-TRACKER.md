@@ -14,9 +14,9 @@
 
 | Day | Topic | Study | Lab | Done |
 |-----|-------|-------|-----|------|
-| Day 1 | HTML Structure, Tags, Elements | [ ] | [ ] | [ ] |
-| Day 2 | Links, Lists, Images | [ ] | [ ] | [ ] |
-| Day 3 | Tables, Forms | [ ] | [ ] | [ ] |
+| Day 1 | HTML Structure, Tags, Elements | [✅] | [✅] | [✅] |
+| Day 2 | Links, Lists, Images | [✅] | [ ✅] | [ ✅] |
+| Day 3 | Tables, Forms | [✅] | [✅] | [ ✅] |
 | Day 4 | Semantic HTML5 | [ ] | [ ] | [ ] |
 | Day 5 | Accessibility + Best Practices | [ ] | [ ] | [ ] |
 | Day 6-7 | Mini Project: Portfolio | [ ] | — | [ ] |
