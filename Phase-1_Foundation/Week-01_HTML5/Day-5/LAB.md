@@ -26,7 +26,7 @@
 
 ### Task 1 — HTML Validator দিয়ে চেক করা (Important!)
 1. তোমার Day 5 এর `my-work.html` এর সব কোড কপি করো।
-2. এই ওয়েবসাইটে যাও: https://validator.w3.org/#validate_by_input
+2. এই ওয়েবসাইটে যাও: thttps://validator.w3.org/#validate_by_inpu
 3. কোড পেস্ট করো এবং "Check" বাটনে ক্লিক করো।
 4. যদি কোনো Error বা Warning দেখায়, তবে সেগুলো ঠিক করো। (খুব সম্ভবত কোনো Error দেখাবে না, কারণ তুমি Day 4 এ খুব ভালো কোড লিখেছো! তবুও একবার চেক করা ভালো প্র্যাকটিস)।
 
