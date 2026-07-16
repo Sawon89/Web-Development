@@ -1,2 +1,119 @@
 <!-- Week 1 Mini Project: Personal Portfolio -->
 <!-- Write your complete HTML code here -->
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini-Project-protfolio</title>
+</head>
+
+<body>
+    <a href="#about" tabindex="0">Skip to About section</a>
+    <header>
+        <h1>Md Saifullah Islam Sawon</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#about">About Me</a>
+            <a href="#skills">My Skills</a>
+            <a href="#projects">My Projects</a>
+            <a href="#contact">Contact Me</a>
+            <a href="https://www.google.com" target="_blank" aria-level="Google">Go to Google</a>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello, My name is Md Saifullah Islam Sawon. I am from Bangladesh. I am a web Developer. I am under
+                graduate student.I am studying Dhaka International Univrersity department of Computer Science and
+                Engineering.My passion is Webdevelopment and I am a hard working person. I can learn anything if i
+                want.I believe in myself. And i know i will be a successful web developer.</p>
+
+            <figure>
+                <img src="Photo/my_photo.jpg" alt="A professional photo of Md Saifullah Islam Sawon" width="400">
+                <figcaption>Md Saifullah Islam Sawon</figcaption>
+            </figure>
+        </section>
+        <section>
+            <h2>My Skills</h2>
+            <table class="skills-table">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Details</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="category-name">Frontend</td>
+                        <td>HTML, CSS, Bootstrap</td>
+                    </tr>
+                    <tr>
+                        <td class="category-name">Backend</td>
+                        <td>Node.js, Database</td>
+                    </tr>
+                    <tr>
+                        <td class="category-name">Tools</td>
+                        <td>Git, GitHub, VS Code</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+        <section id="Project">
+            <h2>My Projects:-</h2>
+            <ol>
+                <li><strong>Day 1:-</strong> Personal Introduction Page</li>
+                <li><strong>Day 2:-</strong> Blog Post Page</li>
+                <li><strong>Day 3:-</strong> Contact Form Page</li>
+                <li><strong>Day 4:-</strong> Portfolio Structure</li>
+                <li><strong>Day 5:-</strong> Accessible Webpage</li>
+                <li><strong>Day 6:-</strong> Portfolio Webpage</li>
+            </ol>
+        </section>
+        <section id="Contact">
+            <h2>Contact Me:</h2>
+            <form>
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your Name"><br>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Enter your Email"><br>
+
+                <label for="message">Message</label>
+                <textarea id="message" name="message" rows="4" placeholder="Enter your Message"></textarea><br>
+
+                <button type="submit">Submit</button>
+                <button type="reset">Reset</button>
+            </form>
+            <article>
+                <a href="https://github.com/Sawon89" aria-label="GitHub" target="_blank">Vist my GitHub</a>
+                <a href="https://www.facebook.com/profile.php?id=61582982093712" aria-label="Facebook"
+                    target="_blank">Visit my
+                    Facebook</a>
+                <a href="https://www.linkedin.com/in/md-sawon-sana-444420421/" aria-label="LinkedIn"
+                    target="_blank">Visit My
+                    LinkedIn</a>
+            </article>
+        </section>
+        <aside>
+            <h2>Quick Facts</h2>
+            <ul>
+                <li>Age: 21</li>
+                <li>Nationality: Bangladeshi</li>
+                <li>Location: Dhaka</li>
+                <li>Marital Status: Single</li>
+            </ul>
+        </aside>
+    </main>
+    <footer>
+        <p>&copy; 2026 Md Saifullah Islam Sawon | Web Developer</p>
+        <div class="social-links">
+            <a href="https://github.com/Sawon89" target="_blank">GitHub</a> |
+            <a href="https://linkedin.com" target="_blank">LinkedIn</a> |
+            <a href="https://facebook.com" target="_blank">Facebook</a>
+        </div>
+    </footer>
+</body>
+
+</html>
