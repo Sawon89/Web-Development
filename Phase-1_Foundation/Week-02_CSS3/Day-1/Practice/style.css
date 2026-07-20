@@ -1,1 +1,27 @@
 /* CSS code here */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+}
+
+#main-heading {
+    text-align: center;
+    color: #2c3e50;
+}
+
+.intro-text {
+    font-size: 20px;
+    color: #34495e;
+}
+
+.highlight-text {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+.my-link {
+    text-decoration: none;
+    background-color: blue;
+    color: white;
+
+}
