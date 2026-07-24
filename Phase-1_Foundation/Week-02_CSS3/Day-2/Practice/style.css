@@ -1,1 +1,35 @@
 /* CSS code here */
+body {
+    background-color: #e9ecef;
+    font-family: Arial, sans-serif;
+}
+
+.profile-card {
+    background-color: #ffffff;
+    width: 350px;
+    padding: 30px;
+    margin: 50px auto;
+    border: 2px solid #3498db;
+    border-radius: 15px;
+    text-align: center;
+}
+
+
+.name {
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+.bio {
+    color: #7f8c8d;
+    line-height: 1.6;
+    margin-bottom: 25px;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: #3498db;
+    color: #ffffff;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
