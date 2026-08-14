@@ -18,16 +18,16 @@
 | Day 2 | Links, Lists, Images | [✅] | [ ✅] | [ ✅] |
 | Day 3 | Tables, Forms | [✅] | [✅] | [ ✅] |
 | Day 4 | Semantic HTML5 | [ ✅] | [ ✅] | [ ✅] |
-| Day 5 | Accessibility + Best Practices | [ ] | [ ] | [ ] |
-| Day 6-7 | Mini Project: Portfolio | [ ] | — | [ ] |
+| Day 5 | Accessibility + Best Practices | [ ✅] | [ ✅] | [ ✅] |
+| Day 6-7 | Mini Project: Portfolio | [ ✅] | — | [ ✅] |
 
 ### Week 2: CSS3 (আসছে...)
 | Day | Topic | Study | Lab | Done |
 |-----|-------|-------|-----|------|
-| Day 1 | CSS Selectors + Properties | [ ] | [ ] | [ ] |
-| Day 2 | Box Model + Spacing | [ ] | [ ] | [ ] |
-| Day 3 | Colors + Typography | [ ] | [ ] | [ ] |
-| Day 4 | Flexbox | [ ] | [ ] | [ ] |
+| Day 1 | CSS Selectors + Properties | [ ✅] | [ ✅] | [ ✅] |
+| Day 2 | Box Model + Spacing | [ ✅] | [ ✅] | [ ✅] |
+| Day 3 | Colors + Typography | [ ✅] | [ ✅] | [ ✅] |
+| Day 4 | Flexbox | [ ✅] | [ ✅] | [ ✅] |
 | Day 5 | CSS Grid | [ ] | [ ] | [ ] |
 | Day 6-7 | Mini Project: Styled Portfolio | [ ] | — | [ ] |
 

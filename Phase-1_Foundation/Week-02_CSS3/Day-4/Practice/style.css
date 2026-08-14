@@ -1,0 +1,38 @@
+/* CSS code here */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+}
+
+.header {
+    background-color: #2c3e50;
+    color: #ffffff;
+    text-align: center;
+    padding: 40px 20px;
+    margin-bottom: 30px;
+}
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    padding: 20px;
+}
+
+.photo {
+    background-color: #3498db;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 80px 100px;
+    border-radius: 15px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
