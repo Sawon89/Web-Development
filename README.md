@@ -1,101 +1,104 @@
-# 🚀 Full Stack Web Development + AI Integration
-## তোমার Personal Learning Journey — Beginner থেকে Advanced
+# 🚀 Full Stack Software Engineering Journey
+## Industry-Ready Developer (BD & Global Market)
 
 ---
 
 > **Mentor:** Antigravity AI  
 > **Student:** তুমি 💪  
-> **Start Date:** July 1, 2026  
-> **Goal:** Professional Full Stack Developer with AI Integration Skills
+> **Goal:** Professional Full Stack Software Engineer (Job Ready)
 
 ---
 
 ## 📚 Complete Curriculum Overview
 
-### 🟢 PHASE 1 — Foundation (Week 1–4)
+### ✅ PHASE 0 — Web Foundation (Completed)
 | Week | Topics |
 |------|--------|
 | Week 1 | HTML5 Fundamentals |
 | Week 2 | CSS3 + Flexbox + Grid |
-| Week 3 | JavaScript Basics |
-| Week 4 | JavaScript Advanced (DOM, Events, APIs) |
 
-### 🔵 PHASE 2 — Frontend Development (Week 5–10)
+### 🔵 PHASE 1 — Programming Core (Week 3–6)
+*Python হচ্ছে বর্তমান সময়ের সবচেয়ে ডিমান্ডিং এবং ফিউচার-প্রুফ ল্যাঙ্গুয়েজ।*
 | Week | Topics |
 |------|--------|
-| Week 5 | Git + GitHub + Command Line |
-| Week 6 | React.js Basics |
-| Week 7 | React.js Advanced (Hooks, Context, Router) |
-| Week 8 | TypeScript Fundamentals |
-| Week 9 | State Management (Redux / Zustand) |
-| Week 10 | Next.js (SSR, SSG, App Router) |
+| Week 3 | Python Basics |
+| Week 4 | Python Intermediate |
+| Week 5 | Object-Oriented Programming (OOP) |
+| Week 6 | Git, GitHub & Advanced Python |
 
-### 🟠 PHASE 3 — Backend Development (Week 11–18)
+### 🟡 PHASE 2 — Modern Frontend Engineering (Week 7–11)
+*Full Stack হতে হলে Frontend এ স্ট্রং হতে হবে।*
 | Week | Topics |
 |------|--------|
-| Week 11 | Node.js + Express.js |
-| Week 12 | REST API Design |
-| Week 13 | Databases — SQL (PostgreSQL) |
-| Week 14 | Databases — NoSQL (MongoDB) |
-| Week 15 | Authentication (JWT, OAuth) |
-| Week 16 | File Upload, Email, WebSockets |
-| Week 17 | API Security + Rate Limiting |
-| Week 18 | Docker + Deployment (Vercel, Railway) |
+| Week 7 | JavaScript Basics (DOM, ES6+) |
+| Week 8 | Tailwind CSS + UI Design |
+| Week 9 | React.js Foundation |
+| Week 10 | React.js Advanced (Hooks, Context, Redux) |
+| Week 11 | Next.js (SSR, SSG, Fullstack React) |
 
-### 🔴 PHASE 4 — AI Integration (Week 19–26)
+### 🟢 PHASE 3 — Core CS & Problem Solving (Week 12–15)
+*ইন্ডাস্ট্রিতে টিকে থাকতে এবং ভালো স্যালারিতে জব পেতে CS Fundamentals জরুরি।*
 | Week | Topics |
 |------|--------|
-| Week 19 | OpenAI API Basics |
-| Week 20 | Building AI Chatbots |
-| Week 21 | LangChain Fundamentals |
-| Week 22 | Vector Databases + RAG |
-| Week 23 | AI Image Generation APIs |
-| Week 24 | AI-Powered App Features |
-| Week 25 | Fine-tuning & Custom Models |
-| Week 26 | Full AI SaaS App Project |
+| Week 12 | Data Structures (Arrays, Linked Lists, Stacks) |
+| Week 13 | Trees, Graphs & Algorithms |
+| Week 14 | Problem Solving (LeetCode / HackerRank) |
+| Week 15 | Operating Systems & Computer Networks |
+
+### 🟣 PHASE 4 — Databases & Data Modeling (Week 16–18)
+| Week | Topics |
+|------|--------|
+| Week 16 | SQL Fundamentals & PostgreSQL |
+| Week 17 | Database Design & Normalization |
+| Week 18 | NoSQL (MongoDB) & Caching (Redis) |
+
+### 🟤 PHASE 5 — Backend Engineering (Week 19–23)
+*Python দিয়ে শক্তিশালী Backend তৈরি।*
+| Week | Topics |
+|------|--------|
+| Week 19 | FastAPI Basics & REST API Design |
+| Week 20 | Authentication (JWT, OAuth2) & Security |
+| Week 21 | Django Framework Basics |
+| Week 22 | Django Rest Framework (DRF) |
+| Week 23 | E-Commerce Backend API (Project) |
+
+### ⚫ PHASE 6 — Architecture & System Design (Week 24–26)
+*সিনিয়র লেভেলের চিন্তা-ভাবনা তৈরি করার জন্য।*
+| Week | Topics |
+|------|--------|
+| Week 24 | Software Design Patterns & SOLID |
+| Week 25 | System Design Basics (Load Balancing, Caching) |
+| Week 26 | Microservices Architecture |
+
+### 🔵 PHASE 7 — DevOps & Cloud (Week 27–29)
+| Week | Topics |
+|------|--------|
+| Week 27 | Docker & Containerization |
+| Week 28 | CI/CD (GitHub Actions) & Linux |
+| Week 29 | Cloud Deployment (AWS basics, VPS) |
+
+### 🏆 PHASE 8 — Job Preparation & Capstone (Week 30–36)
+| Week | Topics |
+|------|--------|
+| Week 30-31 | Full Stack Capstone Project (SaaS / E-commerce) |
+| Week 32-33 | Portfolio Build & CV Resume |
+| Week 34-35 | Mock Interviews & System Design Practice |
+| Week 36 | Job Applications & Networking |
 
 ---
 
 ## 📁 Folder Structure
 
-Web_Development/
-|-- Phase-1_Foundation/
-|   |-- Week-01_HTML5/
-|   |-- Week-02_CSS3/
-|   |-- Week-03_JS-Basics/
-|   +-- Week-04_JS-Advanced/
-|
-|-- Phase-2_Frontend/
-|   |-- Week-05_Git-GitHub/
-|   |-- Week-06_React-Basics/
-|   |-- Week-07_React-Advanced/
-|   |-- Week-08_TypeScript/
-|   |-- Week-09_State-Management/
-|   +-- Week-10_NextJS/
-|
-|-- Phase-3_Backend/
-|   |-- Week-11_NodeJS-Express/
-|   |-- Week-12_REST-API/
-|   |-- Week-13_PostgreSQL/
-|   |-- Week-14_MongoDB/
-|   |-- Week-15_Authentication/
-|   |-- Week-16_Advanced-Features/
-|   |-- Week-17_API-Security/
-|   +-- Week-18_Docker-Deployment/
-|
-|-- Phase-4_AI-Integration/
-|   |-- Week-19_OpenAI-API/
-|   |-- Week-20_AI-Chatbots/
-|   |-- Week-21_LangChain/
-|   |-- Week-22_VectorDB-RAG/
-|   |-- Week-23_AI-Image-APIs/
-|   |-- Week-24_AI-App-Features/
-|   |-- Week-25_Fine-tuning/
-|   +-- Week-26_Final-Project/
-|
+Software_Engineering/
+|-- Phase-0_Foundation/ (Completed)
+|-- Phase-1_Programming_Core/ (Current)
+|-- Phase-2_Frontend_Engineering/
+|-- Phase-3_Core_CS/
+|-- Phase-4_Databases/
+|-- Phase-5_Backend_Engineering/
+|-- Phase-6_System_Design/
+|-- Phase-7_DevOps/
 +-- Projects/
-    |-- Mini-Projects/
-    +-- Capstone-Projects/
 
 ---
 
@@ -114,12 +117,18 @@ Total: ~3 hours/day
 
 ## Progress Tracker
 
-- [ ] Phase 1: Foundation
-- [ ] Phase 2: Frontend
-- [ ] Phase 3: Backend  
-- [ ] Phase 4: AI Integration
-- [ ] Final Capstone Project
+- [x] Phase 0: Web Foundation
+- [ ] Phase 1: Programming Core (Current)
+- [ ] Phase 2: Modern Frontend
+- [ ] Phase 3: Core CS
+- [ ] Phase 4: Databases
+- [ ] Phase 5: Backend Engineering
+- [ ] Phase 6: System Design
+- [ ] Phase 7: DevOps & Cloud
+- [ ] Phase 8: Job Preparation
 
 ---
 
 প্রতিদিন আমি তোমাকে guide করব। শুধু বলো "পরের topic দাও" অথবা "আজকের lab দাও" 🔥
+
+
