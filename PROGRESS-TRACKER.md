@@ -58,7 +58,7 @@ PHASE 8  → Job Preparation & Capstone
 ### Week 3: Python Basics 🟡 CURRENT WEEK
 | Day | Topic | Study Material | Lab/Practice | Done |
 |-----|-------|---------------|--------------|------|
-| Day 1 | Python Setup, Variables, Data Types | Python Docs + W3Schools | 10টি variable practice | [ ] |
+| Day 1 | Python Setup, Variables, Data Types | Python Docs + W3Schools | 10টি variable practice | [✅] |
 | Day 2 | Operators, Input/Output, Type Conversion | Same resources | Calculator বানাও | [ ] |
 | Day 3 | Conditionals (if/elif/else) | Real Python | Grade checker program | [ ] |
 | Day 4 | Loops (for, while, break, continue) | Real Python | Number pattern print করো | [ ] |
